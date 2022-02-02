@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alvin4712
 - 👀 I’m interested in learn python and java
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on python and java projects
 - 📫 How to reach me -> email: sccparcs@gmail.com
